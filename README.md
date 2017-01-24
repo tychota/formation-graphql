@@ -1,4 +1,6 @@
 # GraphQL Demo
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tychota/formation-graphql.svg)](https://greenkeeper.io/)
 (based on react-toolbox-example, all credits to React Toolbox Team (http://github.com/react-toolbox))
 
 ### Getting Started
